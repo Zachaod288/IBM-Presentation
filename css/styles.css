@@ -1,0 +1,192 @@
+img.Headimage {
+    width: 240px;
+    height: 96px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 50px;
+    margin-top: 60px;
+    margin-left: 30px;
+    
+}
+
+h2 {
+    font-style: italic;
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-align: center; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+
+p.withpic{
+    font-size: 18px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+p.intipara {
+    font-size: 18px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+p.chess-text{
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: 180px;
+}
+
+p.picdis{
+    text-align: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 250px;
+}
+
+/*p.ibm7094-text{
+    text-align: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 250px;
+
+} */
+
+ul {
+    margin-top: 10px;
+    margin-bottom: 300px;
+}
+
+li {
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+p.gradrole{
+    margin-bottom: 250px;
+}
+.col-12{
+    width: 98%;
+    float: left;
+}
+
+.col-8{
+    width: 66%;
+    float: left;
+}
+
+.col-6{
+    width: 48%;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+.col-4{
+    width: 31%;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#header {
+    font-size: 30px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin: 0px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+
+} 
+
+#subheader {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.hispic1{
+    width: 440px;  /* 312px  340px */
+    height: 500px;   /* 349px  370px */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    /*width: 50%; */
+}
+
+.ibm7094{
+    width: 740px;   /* 370 */ 
+    height: 450px;  /* 300 */ 
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.chess{
+    width: 700px;   /* 1600 */ 
+    height: 450px;  /* 1035 */ 
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recent{
+    width: 100%;
+    margin-bottom: 10px;
+  /*  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px; */
+}
+
+.NASA{
+    width: 576px;  /* 768px */
+    height: 324px;
+    margin-bottom: 10px;
+}
+
+#foot{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
